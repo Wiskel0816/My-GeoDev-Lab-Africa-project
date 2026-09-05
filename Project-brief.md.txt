@@ -1,0 +1,30 @@
+# My project Brief
+
+## Part 1: The Question
+How much has the built-up area of Umuahia Metropolis expanded since 2015, and where has urban expansion occurred?
+
+## Part 2: Why It Matters
+Umuahia Metropolis is rapidly expanding, making it important to know how much it has grown and where the growth is occurring. This project will provide useful information for urban planning, infrastructure development, and sustainable land management
+
+## Part 3: The Data I Need
+- Satellite imagery       
+- GRID3 Settlement Extent  
+- WorldPop built-up surface                                     
+- Administrative boundaries
+- Road network
+- Population dat                             
+- Building footprints
+
+## Part 4: Where Each Dataset Comes From
+- Ward boundaries — GRID3 — https://data.grid3.org — GeoPackage
+- Settlement extents — GRID3 — https://data.grid3.org — GeoPackage
+- Google Earth Engine earthengine.google.com
+-OpenStreetMap.
+
+## Part 5: What I Would Build
+A map Showing Umuahia's built-up area in 2015, 2020 and 2025,see the total built-up area and percentage expansion, Identify urban expansion hotspots, compare growth with road networks, compare urban expansion with population growth, predict future expansion to 2030
+
+## Contact the Author
+Azubuine Wisdom C.
+azubuinewisdom111@gmial.com
++234 8167885368
